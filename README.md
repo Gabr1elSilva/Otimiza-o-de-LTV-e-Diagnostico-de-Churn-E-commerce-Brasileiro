@@ -1,3 +1,5 @@
 Este projeto desconstrói a "ilusão de crescimento" no e-commerce brasileiro. Ao analisar o ecossistema da Olist, diagnosticamos um cenário crítico de Churn Não Contratual, onde 96,96% dos clientes compram apenas uma vez e nunca retornam. Em vez de apenas prever quem sairá, esta análise investiga por que eles saem.
 
 Através da engenharia de dados em 9 tabelas relacionais, transformamos logs transacionais em uma Visão Única do Cliente (SCV). Descobrimos que a logística não é apenas uma commodity, mas o principal gatilho de fidelidade: atrasos na entrega correlacionam-se diretamente com a destruição do NPS, enquanto a satisfação declarada (Reviews positivos) não garante a retenção. O projeto culmina em uma estratégia de segmentação RFM para identificar e resgatar os poucos clientes de alto valor ("Baleias") antes que entrem no "Churn Silencioso" definido estatisticamente em 312 dias de inatividade.
+
+Link da Análise: [Otimização de LTV e Diagnóstico de Churn: E-commerce Brasileiro](/diagn-stico-de-churn-e-commerce-brasileiro)
