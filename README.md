@@ -2,4 +2,4 @@ Este projeto desconstrói a "ilusão de crescimento" no e-commerce brasileiro. A
 
 Através da engenharia de dados em 9 tabelas relacionais, transformamos logs transacionais em uma Visão Única do Cliente (SCV). Descobrimos que a logística não é apenas uma commodity, mas o principal gatilho de fidelidade: atrasos na entrega correlacionam-se diretamente com a destruição do NPS, enquanto a satisfação declarada (Reviews positivos) não garante a retenção. O projeto culmina em uma estratégia de segmentação RFM para identificar e resgatar os poucos clientes de alto valor ("Baleias") antes que entrem no "Churn Silencioso" definido estatisticamente em 312 dias de inatividade.
 
-Link da Análise: [Otimização de LTV e Diagnóstico de Churn: E-commerce Brasileiro](/diagn-stico-de-churn-e-commerce-brasileiro)
+Link da Análise: [Otimização de LTV e Diagnóstico de Churn: E-commerce Brasileiro](/diagn-stico-de-churn-e-commerce-brasileiro.ipynb)
